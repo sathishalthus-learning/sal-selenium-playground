@@ -1,4 +1,3 @@
 # sal-selenium-playground
 
-selenium.dev
-Java 8
+Selenium.dev and Java 8
